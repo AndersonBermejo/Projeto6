@@ -2,7 +2,7 @@
 
 Este repositório reúne os projetos desenvolvidos durante o curso de GitHub Copilot com o VS Code, utilizando inteligências artificiais como o3, Cloud e Gemini para auxiliar no desenvolvimento. O objetivo foi explorar como as ferramentas de IA podem contribuir com a produtividade e criatividade no desenvolvimento web.
 
-:video_game: Projetos Criados
+## :video_game: Projetos Criados
 
 ## 1. Flappy Mario (IA o3)
 
@@ -35,16 +35,22 @@ Retorno de dados estruturados
 Mensagens de erro claras
 
 Capturas de Tela:
-** teste
+
+* Inserindo os oito números do CEP do endereço.
+
 ![API-CEP criada com o3](https://github.com/user-attachments/assets/9e5bcef5-edfd-47cf-982c-4996fb804ca7)
 
+* Alerta informando que somente aceita números no CEP.
+  
 ![Mensagem de alerta aceita somente números](https://github.com/user-attachments/assets/06c3f533-ab07-4975-9733-71d1fe1f99cd)
+
+* Alerta informando que não aceita outro caracteres, somente números.
 
 ![Mensagem de alerta deve colocar 8 números criado com IA o3](https://github.com/user-attachments/assets/e3b00d4d-30c4-4c32-ae5d-060f1563a703)
 
 ## 3. Roleta de Jogo
 
-Com IA Cloud:
+* Com IA Cloud:
 
 Estilo moderno
 
@@ -56,7 +62,7 @@ Captura:
 
 ![Roleta de jogo com IA Cloud](https://github.com/user-attachments/assets/57bda5fb-2f55-407d-9bc4-016c00c10158)
 
-Com IA Gemini:
+* Com IA Gemini:
 
 Estilo clássico
 
@@ -66,7 +72,7 @@ Captura:
 
 ![Roleta de jogo com IA Gemini](https://github.com/user-attachments/assets/c1a13053-20fa-4be4-9c90-ca36bd37f9c7)
 
-:bulb: Insights
+## :bulb: Insights
 
 O GitHub Copilot é extremamente eficaz para autocompletar códigos com base em padrões e comentários.
 
@@ -74,7 +80,7 @@ As IAs (Cloud, Gemini e o3) demonstraram capacidade criativa para gerar jogos e 
 
 A combinação de VS Code + Copilot + IA é poderosa para aprendizado, prototipação rápida e economia de tempo.
 
-:rocket: Possibilidades Futuras
+## :rocket: Possibilidades Futuras
 
 Criar dashboards interativos com dados em tempo real
 
@@ -82,7 +88,7 @@ Desenvolver jogos mais complexos (ex: com pontuação online e ranking)
 
 Utilizar IA para refatorar código e detectar bugs automaticamente
 
-:computer: Tecnologias Utilizadas
+## :computer: Tecnologias Utilizadas
 
 HTML, CSS e JavaScript
 
@@ -96,7 +102,7 @@ Canvas API para animação
 
 IAs: o3, Gemini, Cloud
 
-:memo: Conclusão
+## :memo: Conclusão
 
 Este curso mostrou como as ferramentas de IA podem atuar como verdadeiros assistentes de código. Com criatividade e boas práticas, é possível construir projetos funcionais, visualmente agradáveis e educativos de forma ágil.
 
