@@ -35,7 +35,7 @@ Retorno de dados estruturados
 Mensagens de erro claras
 
 Capturas de Tela:
-
+** teste
 ![API-CEP criada com o3](https://github.com/user-attachments/assets/9e5bcef5-edfd-47cf-982c-4996fb804ca7)
 
 ![Mensagem de alerta aceita somente números](https://github.com/user-attachments/assets/06c3f533-ab07-4975-9733-71d1fe1f99cd)
