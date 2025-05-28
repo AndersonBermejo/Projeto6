@@ -1,10 +1,10 @@
-##Projeto: Exploração com GitHub Copilot e VS Code
+## Projeto: Exploração com GitHub Copilot e VS Code
 
 Este repositório reúne os projetos desenvolvidos durante o curso de GitHub Copilot com o VS Code, utilizando inteligências artificiais como o3, Cloud e Gemini para auxiliar no desenvolvimento. O objetivo foi explorar como as ferramentas de IA podem contribuir com a produtividade e criatividade no desenvolvimento web.
 
 :video_game: Projetos Criados
 
-##1. Flappy Mario (IA o3)
+## 1. Flappy Mario (IA o3)
 
 Jogo inspirado no Flappy Bird, com o personagem Mario. Inclui:
 
@@ -42,7 +42,7 @@ Capturas de Tela:
 
 ![Mensagem de alerta deve colocar 8 números criado com IA o3](https://github.com/user-attachments/assets/e3b00d4d-30c4-4c32-ae5d-060f1563a703)
 
-##3. Roleta de Jogo
+## 3. Roleta de Jogo
 
 Com IA Cloud:
 
