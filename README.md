@@ -22,7 +22,7 @@ Capturas de Tela:
 
 ![Tela fim do jogo IA o3](https://github.com/user-attachments/assets/ff26f163-5cd5-4090-adfe-fa40bd478b8b)
 
-##2. API CEP (IA o3)
+##2. API CEP (IA o3) ##
 
 Aplicativo frontend que consome uma API de endereço a partir do CEP inserido.
 
